@@ -1,0 +1,11 @@
+
+### requirements.txt
+
+Your `requirements.txt` file should include all the Python packages required to run your project. In your case, it seems you are using Pygame and PyTorch. Here's an example:
+
+```plaintext
+pygame==2.0.1
+torch==1.9.1
+numpy==1.21.0
+matplotlib==3.4.2
+
